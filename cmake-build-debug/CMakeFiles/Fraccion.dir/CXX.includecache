@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/rjfm/CLionProjects/Fraccion/Fraccion.cpp
+iostream
+-
+Fraccion.h
+/Users/rjfm/CLionProjects/Fraccion/Fraccion.h
+
+/Users/rjfm/CLionProjects/Fraccion/Fraccion.h
+
