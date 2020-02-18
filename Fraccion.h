@@ -16,7 +16,7 @@ public:
 
     void inicializar(int num, int denom);
     double division();
-    int reduce(int num, int denom);
+    static int reduce(int num, int denom);
 
 };
 
